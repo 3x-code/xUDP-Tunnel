@@ -1,21 +1,67 @@
-MIT License
+# Tunnel Platform License Agreement
 
-Copyright (c) 2026 3x-code
+Copyright (c) 2024 Tunnel Platform. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## DUAL LICENSING
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software is available under two different licenses:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 1. Open Source License (AGPL v3)
+
+If you are using this software in an open source project, you may use it under 
+the terms of the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+This license requires that:
+- All source code using this software must be made publicly available
+- All modifications must be shared under the same license
+- Network use counts as distribution
+- Copyright notices must be preserved
+
+Full license text: https://www.gnu.org/licenses/agpl-3.0.en.html
+
+### 2. Commercial License
+
+If you want to use this software in a commercial/proprietary project without 
+the AGPL requirements, you must purchase a commercial license.
+
+Commercial licenses include:
+- No requirement to disclose source code
+- Private modifications allowed
+- Enterprise support and SLAs
+- Indemnification protection
+- Priority bug fixes and features
+
+Contact: licensing@tunnel-platform.com
+
+## COMMERCIAL LICENSE TERMS
+
+Upon obtaining a commercial license, the following terms apply:
+
+### Grant of License
+Subject to payment of applicable fees, Licensor grants Licensee a worldwide, 
+non-exclusive, non-transferable license to:
+- Use the Software for commercial purposes
+- Modify and create derivative works
+- Deploy in proprietary environments
+- Distribute as part of larger works
+
+### Restrictions
+Licensee may not:
+- Sublicense, sell, or redistribute the Software standalone
+- Remove or alter any proprietary notices
+- Use the Software for illegal purposes
+- Circumvent any technical limitations
+
+### Term and Termination
+- License is perpetual unless terminated
+- Terminates automatically upon breach
+- Upon termination, all use must cease
+
+### Limitation of Liability
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DAMAGES EXCEEDING 
+THE LICENSE FEES PAID.
+
+---
+
+For license inquiries: licensing@tunnel-platform.com
+Website: https://tunnel-platform.com/licensing
