@@ -76,3 +76,21 @@ graph LR
     D --> G
     E --> G
     F --> G
+
+---
+
+<div align="center">
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/tunnel-platform&type=Date)](https://star-history.com/#YOUR_USERNAME/tunnel-platform&Date)
+
+---
+
+**Made with ❤️ for a free and open internet**
+
+*If you find this project useful, please consider giving it a star ⭐*
+
+[⬆ Back to Top](#-tunnel-platform)
+
+</div>
