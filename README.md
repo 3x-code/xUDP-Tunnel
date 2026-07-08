@@ -76,15 +76,3 @@ graph LR
     D --> G
     E --> G
     F --> G
-sequenceDiagram
-    participant C as Client
-    participant R as Router
-    participant P1 as Primary Path
-    participant P2 as Secondary Path
-    
-    C->>R: Data
-    R->>P1: Forward
-    P1--xR: Failure Detected
-    Note over R: Health Score < Threshold
-    R->>P2: Instant Failover
-    R->>C: Continue (No Interruption)
