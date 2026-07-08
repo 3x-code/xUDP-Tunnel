@@ -1,67 +1,254 @@
-# Tunnel Platform License Agreement
+# TUNNEL PLATFORM PROPRIETARY LICENSE v2.0
 
-Copyright (c) 2024 Tunnel Platform. All rights reserved.
-
-## DUAL LICENSING
-
-This software is available under two different licenses:
-
-### 1. Open Source License (AGPL v3)
-
-If you are using this software in an open source project, you may use it under 
-the terms of the GNU Affero General Public License v3.0 (AGPL-3.0).
-
-This license requires that:
-- All source code using this software must be made publicly available
-- All modifications must be shared under the same license
-- Network use counts as distribution
-- Copyright notices must be preserved
-
-Full license text: https://www.gnu.org/licenses/agpl-3.0.en.html
-
-### 2. Commercial License
-
-If you want to use this software in a commercial/proprietary project without 
-the AGPL requirements, you must purchase a commercial license.
-
-Commercial licenses include:
-- No requirement to disclose source code
-- Private modifications allowed
-- Enterprise support and SLAs
-- Indemnification protection
-- Priority bug fixes and features
-
-Contact: licensing@tunnel-platform.com
-
-## COMMERCIAL LICENSE TERMS
-
-Upon obtaining a commercial license, the following terms apply:
-
-### Grant of License
-Subject to payment of applicable fees, Licensor grants Licensee a worldwide, 
-non-exclusive, non-transferable license to:
-- Use the Software for commercial purposes
-- Modify and create derivative works
-- Deploy in proprietary environments
-- Distribute as part of larger works
-
-### Restrictions
-Licensee may not:
-- Sublicense, sell, or redistribute the Software standalone
-- Remove or alter any proprietary notices
-- Use the Software for illegal purposes
-- Circumvent any technical limitations
-
-### Term and Termination
-- License is perpetual unless terminated
-- Terminates automatically upon breach
-- Upon termination, all use must cease
-
-### Limitation of Liability
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DAMAGES EXCEEDING 
-THE LICENSE FEES PAID.
+Copyright © 2024 Tunnel Platform Technologies. All Rights Reserved.
 
 ---
 
-For license inquiries: licensing@tunnel-platform.com
-Website: https://tunnel-platform.com/licensing
+## 1. DEFINITIONS
+
+1.1 **"Software"** means the Tunnel Platform anti-censorship tunnel system, 
+including all source code, object code, documentation, configuration files, 
+and associated materials.
+
+1.2 **"Licensor"** means Tunnel Platform Technologies and its authorized 
+representatives.
+
+1.3 **"Licensee"** means any individual or entity that uses, copies, modifies, 
+or distributes the Software.
+
+1.4 **"Commercial Use"** means any use of the Software for business purposes, 
+revenue generation, or in connection with any commercial product or service.
+
+1.5 **"Derivative Works"** means any modification, enhancement, translation, 
+or adaptation of the Software.
+
+---
+
+## 2. LICENSE TYPES
+
+### 2.1 Personal/Non-Commercial License (FREE)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this Software, to use the Software for personal, non-commercial purposes 
+only, subject to the following conditions:
+
+**Permitted:**
+- ✅ Personal use on personal devices
+- ✅ Educational and academic research
+- ✅ Non-profit organization use (with attribution)
+- ✅ Contributing to the open-source project
+- ✅ Testing and evaluation
+
+**Prohibited:**
+- ❌ Commercial use without license
+- ❌ Government/surveillance use without explicit approval
+- ❌ Military applications
+- ❌ Use in oppressive regimes for censorship
+- ❌ Redistribution as part of commercial products
+- ❌ Providing as a service to third parties
+
+### 2.2 Commercial License (PAID)
+
+Commercial use requires a paid license. Contact licensing@tunnel-platform.com 
+for pricing and terms.
+
+**Includes:**
+- ✅ All Personal License rights
+- ✅ Commercial deployment
+- ✅ SaaS/PaaS offerings
+- ✅ Enterprise distribution
+- ✅ White-label solutions
+- ✅ Priority support
+- ✅ SLA guarantees
+- ✅ Indemnification
+
+### 2.3 Enterprise License (CUSTOM)
+
+Custom licensing for large-scale deployments, government agencies, and 
+special use cases. Contact enterprise@tunnel-platform.com.
+
+---
+
+## 3. RESTRICTIONS
+
+### 3.1 General Restrictions
+
+Licensee shall NOT:
+a) Remove, obscure, or alter any copyright notices
+b) Use the Software for illegal activities
+c) Circumvent any technical protection measures
+d) Use the Software to develop competing products
+e) Sublicense the Software without authorization
+f) Use the Software in life-critical systems
+
+### 3.2 Specific Restrictions
+
+**Anti-Censorship Ethics Clause:**
+This Software is designed to promote internet freedom. Licensee agrees NOT to:
+a) Use the Software to enable censorship or surveillance
+b) Deploy in countries/regions to restrict internet freedom
+c) Sell/license to entities known for human rights violations
+d) Assist oppressive regimes in blocking internet access
+
+**Human Rights Compliance:**
+Licensee represents and warrants that:
+a) They comply with UN Universal Declaration of Human Rights
+b) They do not engage in systematic human rights violations
+c) Their use promotes internet freedom and privacy rights
+
+---
+
+## 4. INTELLECTUAL PROPERTY
+
+### 4.1 Ownership
+All rights, title, and interest in the Software remain with Licensor.
+
+### 4.2 Contributions
+Contributors grant Licensor a perpetual, worldwide, non-exclusive license 
+to use their contributions.
+
+### 4.3 Patents
+Licensor grants a limited patent license for use of the Software as 
+permitted herein.
+
+### 4.4 Trademarks
+"Tunnel Platform" and related marks are trademarks of Licensor.
+
+---
+
+## 5. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+---
+
+## 6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE.
+
+LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED THE LICENSE FEES PAID BY 
+LICENSEE IN THE TWELVE MONTHS PRECEDING THE CLAIM.
+
+---
+
+## 7. INDEMNIFICATION
+
+Licensee agrees to indemnify and hold harmless Licensor against all claims, 
+damages, and expenses arising from Licensee's use of the Software.
+
+---
+
+## 8. TERMINATION
+
+### 8.1 Automatic Termination
+This License terminates automatically upon breach of any terms.
+
+### 8.2 Effect of Termination
+Upon termination, Licensee must:
+a) Cease all use of the Software
+b) Destroy all copies
+c) Certify destruction in writing
+
+### 8.3 Survival
+Sections 4, 5, 6, 7, and 8 survive termination.
+
+---
+
+## 9. AUDIT RIGHTS
+
+Licensor reserves the right to audit Licensee's compliance with this License 
+with 30 days' notice. Audit costs borne by Licensor unless violations found.
+
+---
+
+## 10. EXPORT CONTROL
+
+Licensee agrees to comply with all applicable export control laws and 
+regulations, including but not limited to US Export Administration 
+Regulations (EAR) and International Traffic in Arms Regulations (ITAR).
+
+---
+
+## 11. GOVERNING LAW
+
+This License shall be governed by the laws of [Jurisdiction], without 
+regard to conflict of law principles.
+
+Disputes shall be resolved through binding arbitration in [City, Country] 
+under the rules of [Arbitration Body].
+
+---
+
+## 12. SEVERABILITY
+
+If any provision of this License is found invalid or unenforceable, the 
+remaining provisions shall remain in full force and effect.
+
+---
+
+## 13. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the parties regarding 
+the Software and supersedes all prior agreements.
+
+---
+
+## 14. MODIFICATIONS
+
+Licensor reserves the right to modify this License. Licensee will be 
+notified of material changes. Continued use constitutes acceptance.
+
+---
+
+## 15. CONTACT INFORMATION
+
+**Licensing Inquiries:**
+- Personal/Non-Commercial: free@tunnel-platform.com
+- Commercial: sales@tunnel-platform.com
+- Enterprise: enterprise@tunnel-platform.com
+
+**Legal Notices:**
+Tunnel Platform Technologies
+[Address]
+legal@tunnel-platform.com
+
+**Website:** https://tunnel-platform.com/licensing
+
+---
+
+## APPENDIX A: THIRD-PARTY LICENSES
+
+This Software includes third-party components under the following licenses:
+- quic-go: MIT License
+- hashicorp/raft: Mozilla Public License 2.0
+- prometheus/client_golang: Apache License 2.0
+- [See NOTICE file for complete list]
+
+---
+
+## APPENDIX B: ETHICAL USE GUIDELINES
+
+This Software is intended to:
+✅ Protect privacy and internet freedom
+✅ Enable access to information
+✅ Bypass unjust censorship
+✅ Protect human rights defenders
+✅ Support free speech
+
+This Software must NOT be used to:
+❌ Enable government surveillance
+❌ Restrict internet access
+❌ Violate human rights
+❌ Support oppressive regimes
+❌ Engage in illegal activities
+
+---
+
+**Effective Date:** January 1, 2024
+**Version:** 2.0.0
+
+© 2024 Tunnel Platform Technologies. All Rights Reserved.
