@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Tunnel Platform
+# 🛡️ xUDP Tunnel Platform
 
 ### Enterprise-Grade Anti-Censorship Tunnel System
 
